@@ -3,5 +3,5 @@ Finding business insights that teams within the company can use to launch new ca
 
 Tech stack Used: MySql database and workbench
 
-SQL QUERY:
+
 
